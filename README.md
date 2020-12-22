@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **owolabioromidayo/owolabioromidayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
@@ -32,5 +32,9 @@
 </p>
 -->
 
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owolabioromidayo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owolabioromidayo&show_icons=true&theme=synthwave" alt="owolabioromidayo" /></p>
+<table>
+  <tr>
+  <!--<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owolabioromidayo&layout=compact" /></td>-->
+  <td><img src="https://github-readme-stats.vercel.app/api?username=owolabioromidayo&show_icons=true&theme=dark" /></td>
+  </tr>
+</table>
